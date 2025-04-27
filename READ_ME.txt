@@ -50,7 +50,7 @@ Dataset is not stored in this repository. It is downloaded automatically at runt
 
 ## How to Run the Project
 
-1. Open the notebook [`Unet_khawla.ipynb`](./Unet_khawla.ipynb) in [Google Colab](https://colab.research.google.com)
+1. Open the notebook [`Unet_khawla.ipynb`](./CODE U-Net.ipynb) in [Google Colab](https://colab.research.google.com)
 2. Run all cells in sequence
 3. Upload your own test images to the Colab environment
 4. Observe the model’s predictions and visualizations at the end of the notebook
@@ -64,8 +64,14 @@ It helped me understand the U-Net architecture, image preprocessing, semantic se
 
 ---
 
-## License
+---
 
-This project is academic. If you wish to reuse it, please provide appropriate citation and credit.
+## Contributions
+
+Feel free to fork the repository and submit pull requests if you'd like to contribute to the development or enhancement of this project.
 
 ---
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
